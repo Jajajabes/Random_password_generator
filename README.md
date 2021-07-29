@@ -1,10 +1,10 @@
 				RANDOM PASSWORD GENERATOR.
 
-	Random Password Generator es una herramienta basada en python 3.9.5, 
+Random Password Generator es una herramienta basada en python 3.9.5, 
 su función se fundamenta en la generación totalmente aleatoria de contraseñas seguras, 
 únicas y disponibles para que el usuario pueda con tan solo un clic copiarlas y hacer uso de estas.
 
-	Fue desarrollada como primer proyecto de demostración sobre programación con python 
+Fue desarrollada como primer proyecto de demostración sobre programación con python 
 como aplicación de escritorio Windows; Cualquier inquietud o sugerencia puede ser dirigida a su autor.
 	Jabes Esteban Monroy: jabesmonroy@gmail.com
 			      @jajajabes (Instragram y otros)
