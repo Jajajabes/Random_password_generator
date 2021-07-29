@@ -1,2 +1,0 @@
-# Random_password_generator
- My first Python-based desktop program/project that uses random variables from the ASCII list and returns a powerful and usable password with characters, numbers, uppercase and lowercase.  In this program you can see:  -The handling of Python syntax and the use of the "python form". -The use of libraries. -The construction of a GUI. -The handling of files. -The use of properties. -Application of variables -Function handling -Concatenation and manipulation of data types. 
