@@ -9,6 +9,7 @@ como aplicación de escritorio Windows; Cualquier inquietud o sugerencia puede s
 	Jabes Esteban Monroy: jabesmonroy@gmail.com
 			      @jajajabes (Instragram y otros)
 
+Nota aclaratoria: Junto al código fuente podrá encontrar un video del funcionamiento de la aplicación o en su defecto también esta disponible en el siguiente enlace: https://youtu.be/ferTamtENTk
 
 				MANUAL DE INSTALACIÓN.
 Una vez encontrándose en el repositorio https://github.com/Jajajabes/Random_password_generator	:
